@@ -5,7 +5,7 @@
   "dependencies": {
     "react": "^15.4.2",
     "react-dom": "^15.4.2",
-    "react-invalidate": "^1.1.1"
+    "react-invalidate": "^1.2.1"
   },
   "devDependencies": {
     "react-scripts": "0.9.5"
